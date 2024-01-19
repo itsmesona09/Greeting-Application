@@ -8,3 +8,6 @@ FEATURES
 2. Enter recipient and sender names.
 3. Add a personal message.
 4. Click "Send" to deliver personalized greeting.
+
+SCREENSHOTS OF THE APPLICATION
+![Screenshot (27)](https://github.com/itsmesona09/Greeting-Card-Application/assets/111109613/52e34b71-f047-47d3-8d66-c485e2f9a07e)
